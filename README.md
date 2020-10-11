@@ -1,4 +1,5 @@
 ![OpenWrt logo](/logo.svg)
+![Merge-upstream](https://github.com/entr0pee/openwrt/workflows/Merge-upstream/badge.svg?event=schedule)
 
 OpenWrt Project is a Linux operating system targeting embedded devices. Instead
 of trying to create a single, static firmware, OpenWrt provides a fully
